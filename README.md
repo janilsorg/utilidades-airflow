@@ -19,3 +19,8 @@ docker ps
 docker exec -it - airflow-tut_webserver_1 bash
 ```
 <p>Esse comando fará você logar no ambiente docker onde está instalado o AirFlow e assim listar os arquivos de configurações ou até modifica-los.</p>
+
+### Para acessar a interface, basta navegar até o endereço
+```
+http://localhost:8080
+```
