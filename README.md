@@ -3,8 +3,8 @@
 ## Abra um terminal ou Prompt de comando e clone o repositório
 ```
 git clone https://github.com/janilsorg/utilidades-airflow
-
-<p>Ou faça o download do repositório via interface</p>
+```
+### Ou faça o download do repositório via interface
 
 ## Execute o comando
 ```
