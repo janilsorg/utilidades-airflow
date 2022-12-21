@@ -1,5 +1,11 @@
 # Instalação básica do Airflow usando docker
 
+## Abra um terminal ou Prompt de comando e clone o repositório
+```
+git clone https://github.com/janilsorg/utilidades-airflow
+
+<p>Ou faça o download do repositório via interface</p>
+
 ## Execute o comando
 ```
 docker-compose up
